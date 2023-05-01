@@ -1,0 +1,61 @@
+h1 {
+	font-size: 48px;
+	font-family: "Luckiest Guy";
+}
+
+h3 {
+	font-size: 28px;
+	font-family: "Luckiest Guy";
+}
+
+h4 {
+	font-size: 24px;
+	font-family: "Luckiest Guy";
+}
+
+p {
+	font-size: 18px;
+}
+
+.upgradeTitle {
+	margin: 0;
+	padding: 5px 10px;
+}
+
+.statCard {
+	border-radius: 25px;
+}
+
+.primary {
+    background: rgb(0, 0, 255, 0.25);
+}
+
+.statCardTitle {
+	margin: 0px;
+	padding: 10px;
+}
+
+.horizontalStatContainer {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.singleHorizontalStat {
+	margin: 0;
+	padding: 10px;
+	font-family: "Roboto";
+}
+
+.largeStatNumber {
+	font-size: 34px;
+	font-family: "Roboto";
+	margin: 0;
+}
+
+.statDescription {
+	margin: 5px 0px;
+}
+
+.attack {
+	color:rgb(0, 0, 255, 0.25);
+}
